@@ -15,7 +15,7 @@
 - **Network Automation:** Emphasizes automation for efficient network management.
 
   
-## 5G core fn
+## 5G core fn's
 
 ***The 5G core functions include components like the Access and Mobility Management Function (AMF), Session Management Function (SMF), User Plane Function (UPF), and others. These functions work together to enable the key capabilities of 5G networks, such as high data rates, low latency, and massive device connectivity.***
 
