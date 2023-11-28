@@ -18,3 +18,38 @@
 ## 5G core fn
 
 *The 5G core functions include components like the Access and Mobility Management Function (AMF), Session Management Function (SMF), User Plane Function (UPF), and others. These functions work together to enable the key capabilities of 5G networks, such as high data rates, low latency, and massive device connectivity.*
+
+
+
+
+### 5G Core Functions in short terms we can understand whats the work's of their functions in core networking.
+
+1. **AMF (Access and Mobility Management Function):**
+   - Manages access and mobility for user devices.
+
+2. **SMF (Session Management Function):**
+   - Controls session establishment, modification, and termination.
+
+3. **UPF (User Plane Function):**
+   - Handles user data forwarding in the data plane.
+
+4. **UDM (Unified Data Management):**
+   - Manages user-related data and authentication.
+
+5. **AUSF (Authentication Server Function):**
+   - Responsible for user authentication and security.
+
+6. **NSSF (Network Slice Selection Function):**
+   - Facilitates network slicing for tailored services.
+
+7. **PCF (Policy Control Function):**
+   - Enforces policies for Quality of Service (QoS) and resource allocation.
+
+8. **NEF (Network Exposure Function):**
+   - Allows authorized third-party access to network services.
+
+9. **UDR (Unified Data Repository):**
+   - Stores and manages subscriber data.
+
+10. **AF (Application Function):**
+    - Supports service-specific applications in the network.
