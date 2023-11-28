@@ -53,3 +53,24 @@
 
 10. **AF (Application Function):**
     - Supports service-specific applications in the network.
+   
+
+
+### UPF (User Plane Function):
+
+The User Plane Function (UPF) is a crucial component within the 5G core network responsible for handling user data in the data plane. It plays a key role in ensuring efficient and high-speed data forwarding between user devices and the network. Some key aspects of the UPF include:
+
+- **Data Forwarding:** UPF efficiently forwards user data between the device and the network, facilitating seamless communication.
+
+- **Packet Inspection:** It performs packet inspection and processing to ensure proper routing and delivery of data.
+
+- **QoS Enforcement:** UPF enforces Quality of Service (QoS) policies, ensuring that different services receive the appropriate level of performance.
+
+- **Path Optimization:** It may optimize data paths to enhance performance, reduce latency, and improve overall user experience.
+
+- **Interworking:** UPF collaborates with other network functions to enable smooth interworking within the 5G architecture.
+
+- **User Data Handling:** Manages aspects related to user data, including packet filtering, forwarding decisions, and protocol optimizations.
+- **Integration with Network Slices:** UPF integrates with network slices, allowing tailored connectivity and services based on specific requirements.
+
+The UPF, along with other core functions, contributes to the advanced capabilities of 5G networks, such as low latency, high data rates, and support for diverse use cases.
