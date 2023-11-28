@@ -22,7 +22,7 @@
 
 
 
-### 5G Core Functions in short terms we can understand whats the work's of their functions in core networking.
+### [5G Core Functions in short terms we can understand whats the work's of their functions in core networking.]()
 
 1. **AMF (Access and Mobility Management Function):**
    - Manages access and mobility for user devices.
