@@ -100,3 +100,27 @@ The Control Plane Function (CP Function) is a pivotal element in the 5G core net
 - **Interworking with Other Functions:** CP Function collaborates with various core functions to ensure seamless interoperability and coordination, contributing to the overall efficiency of the 5G core network.
 
 ***Summary***:-The Control Plane Function is integral to orchestrating communication, managing control signaling, and ensuring the dynamic and efficient operation of the 5G network.
+
+
+
+## 5G Core Architecture Key Points
+
+### Components
+- User Plane Function (UPF)
+- Control Plane Function (CPF)
+- Management Plane Function (MPF)
+
+### Objectives
+- High data rates
+- Low latency
+- Improved connectivity for various applications
+
+### Supported Applications
+- Internet of Things (IoT)
+- Augmented reality
+
+### Network Slicing
+- Facilitates creation of virtual networks
+- Tailored to specific use cases
+
+
