@@ -124,3 +124,41 @@ The Control Plane Function (CP Function) is a pivotal element in the 5G core net
 - Tailored to specific use cases
 
 
+## 5G Core Architecture Features
+
+1. **Network Slicing:**
+   - Enables creation of virtual networks for specific services
+   - Optimizes performance and resource allocation
+
+2. **Service-Based Architecture (SBA):**
+   - Adopts a service-oriented approach
+   - Breaks down functions into modular services for flexibility and quick service deployment
+
+3. **Edge Computing:**
+   - Utilizes edge computing to process data closer to the source
+   - Reduces latency and enhances performance for applications like AR, autonomous vehicles, and IoT
+
+4. **Network Function Virtualization (NFV):**
+   - Virtualizes network functions, running them on software for flexibility and cost efficiency
+
+5. **Dual Connectivity:**
+   - Allows devices to connect to both 5G and 4G networks simultaneously
+   - Improves coverage, reliability, and performance
+
+6. **Communication Categories:**
+   - Enhanced Mobile Broadband (eMBB)
+   - Ultra-Reliable Low Latency Communications (URLLC)
+   - Massive Machine Type Communications (mMTC)
+   - Addresses diverse use cases like high-speed internet, reliable communications, and massive-scale IoT
+
+7. **Security Enhancements:**
+   - Improved security mechanisms
+   - Includes stronger encryption, secure network slices, and enhanced authentication
+
+8. **Integration with Cloud Services:**
+   - Seamless integration with cloud services
+   - Enables efficient deployment, scalability, and management of network functions
+
+9. **Quality of Service (QoS):**
+   - Provides advanced QoS mechanisms
+   - Prioritizes traffic based on specific requirements for a better user experience for different applications.
